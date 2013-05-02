@@ -10,7 +10,7 @@
     "feature detection"
   ],
   "author": "Modernizr <http://modernizr.com>",
-  "scripts": [
+  "main": [
     "modernizr.js"
   ]
 }
