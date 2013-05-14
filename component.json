@@ -11,6 +11,7 @@
     "feature detection"
   ],
   "author": "Modernizr <http://modernizr.com>",
+  "main": "modernizr.js",
   "scripts": [
     "modernizr.js"
   ]
