@@ -1,6 +1,6 @@
 {
   "name": "component-modernizr",
-  "version": "2.8.0",
+  "version": "2.8.1",
   "description": "Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user's browser.",
   "repository": {
     "type": "git",
