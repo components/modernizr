@@ -23,9 +23,6 @@
         { "name": "Ben Alman" },
         { "name": "Stu Cox" }
     ],
-    "require": {
-        "robloach/component-installer": "*"
-    },
     "extra": {
         "component": {
             "scripts": [
