@@ -8,20 +8,16 @@
         "feature detection"
     ],
     "type": "component",
-    "homepage": "http://modernizr.com",
+    "homepage": "https://modernizr.com",
     "license": "MIT",
     "authors": [
-        {
-            "name": "Modernizr",
-            "homepage": "http://modernizr.com"
-        },
         { "name": "Faruk Ates" },
         { "name": "Paul Irish" },
         { "name": "Alex Sexton" },
         { "name": "Ryan Seddon" },
-        { "name": "Alexander Farkas" },
-        { "name": "Ben Alman" },
-        { "name": "Stu Cox" }
+        { "name": "Patrick Kettner" },
+        { "name": "Stu Cox" },
+        { "name": "Richard Herrera" }
     ],
     "extra": {
         "component": {

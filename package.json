@@ -1,13 +1,13 @@
 {
   "name": "component-modernizr",
-  "version": "2.8.3",
+  "version": "3.5.0",
   "description": "Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user's browser.",
   "repository": {
     "type": "git",
     "url": "git://github.com/component/modernizr.git"
   },
   "bugs": {
-    "url": "https://github.com/component/modernizr/issues"
+    "url": "https://github.com/Modernizr/Modernizr/issues"
   },
   "keywords": [
     "html5",
@@ -17,16 +17,37 @@
   ],
   "author": {
     "name": "Modernizr",
-    "url": "http://modernizr.com/"
+    "url": "https://modernizr.com/"
   },
   "contributors": [
-    { "name": "Faruk Ates" },
-    { "name": "Paul Irish" },
-    { "name": "Alex Sexton" },
-    { "name": "Ryan Seddon" },
-    { "name": "Alexander Farkas" },
-    { "name": "Ben Alman" },
-    { "name": "Stu Cox" }
+    {
+      "name": "Faruk Ates",
+      "url": "https://twitter.com/KuraFire"
+    },
+    {
+      "name": "Paul Irish",
+      "url": "https://twitter.com/paul_irish"
+    },
+    {
+      "name": "Alex Sexton",
+      "url": "https://twitter.com/SlexAxton"
+    },
+    {
+      "name": "Ryan Seddon",
+      "url": "https://twitter.com/ryanseddon"
+    },
+    {
+      "name": "Patrick Kettner",
+      "url": "https://twitter.com/patrickkettner"
+    },
+    {
+      "name": "Stu Cox",
+      "url": "https://twitter.com/stucoxmedia"
+    },
+    {
+      "name": "Richard Herrera",
+      "url": "https://twitter.com/doctyper"
+    }
   ],
   "license": "MIT"
 }
